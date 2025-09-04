@@ -1,0 +1,11 @@
+WIDER_FACE_YOLO
+WIDER_FACE_YOLO.tar
+yolov8n-face.pt
+runs
+.venv
+__pycache__\
+.idea
+.vscode
+*.pyc
+*.pyo
+*.pyd
