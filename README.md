@@ -356,10 +356,10 @@ class MainWindow(QWidget):
   - `hsv_v`: Điều chỉnh độ sáng (value) trong không gian màu HSV
   - `degrees`: Xoay hình ảnh ngẫu nhiên trong khoảng độ nhất định.
   - `translate`: Dịch chuyển hình ảnh ngẫu nhiên theo trục x và y
-  - `scale`: Thay đổi kích thước hình ảnh ngẫu nhiên trong khoảng tỷ
+  - `scale`: Thay đổi kích thước hình ảnh ngẫu nhiên trong khoảng tỷ lệ [0, 1]
   - `shear`: Cắt xéo hình ảnh ngẫu nhiên trong khoảng độ nhất định
-  - `perspective`: Thay đổi phối cảnh hình ảnh ngẫu nhiên trong khoảng tỷ
-  - `flipud`: Lật hình ảnh ngẫu nhiên theo chiều dọc với xác
+  - `perspective`: Thay đổi phối cảnh hình ảnh ngẫu nhiên trong khoảng tỷ lệ nhất định
+  - `flipud`: Lật hình ảnh ngẫu nhiên theo chiều dọc với xác suất nhất định
   - `fliplr`: Lật hình ảnh ngẫu nhiên theo chiều ngang với xác suất nhất định
 
 - Link dataset: https://drive.google.com/file/d/1roNilRaLMz4uLqZvINDAyxasG8ncwb5n/view?usp=share_link

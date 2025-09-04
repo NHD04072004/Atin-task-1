@@ -1,6 +1,7 @@
 WIDER_FACE_YOLO
 WIDER_FACE_YOLO.tar
 yolov8n-face.pt
+yolov8n.pt
 runs
 .venv
 __pycache__\
